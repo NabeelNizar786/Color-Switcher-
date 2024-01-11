@@ -122,6 +122,7 @@ body {
   display: grid;
   place-items: center;
   min-height: 100vh;
+  transition: all 0.5s;
 }
 
 .widget {
